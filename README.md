@@ -1,7 +1,7 @@
 ### Hi, I am Mohamed Iman 👋
 
 # 💫 About Me:
-I am a full stack developer <br>keep improving my skills<br>Ask me about my tech-related stuff <br>How to reach me: Email -  iman200m@gmail.com<br>Pronouns: He/His<br><br>
+I am a full stack developer <br>keep improving my skills<br>Ask me about my tech-related stuff <br>How to reach me: Email -  iman900a@gmail.com<br>Pronouns: He/His<br>currently looking for a job<br>
 
 
 ## 🌐 Socials:
