@@ -13,9 +13,7 @@ I am a full stack developer <br>keep improving my skills<br>Ask me about my tech
 ## my Recent Cross Platform React Native Apps
 
 ![1 0-home](https://user-images.githubusercontent.com/19636687/191680004-8b289f15-0319-4d3d-a5be-47f0564a028c.png)
-
 ![1 1-hime](https://user-images.githubusercontent.com/19636687/191680015-a689da65-47a8-4139-838c-18da81d91a3b.png)
-
 ![2-categories](https://user-images.githubusercontent.com/19636687/191680025-8f2631b0-7100-403a-b8a0-3cde4ac2fad6.png)
 
 
