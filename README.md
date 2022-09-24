@@ -43,7 +43,8 @@ I am a full stack developer <br>keep improving my skills<br>Ask me about my tech
 ![Screenshot 2022-09-22 at 1 33 54 AM](https://user-images.githubusercontent.com/19636687/191686533-5f149ffc-15d4-47c3-904b-ae6cccffbf94.png)
 ![Screenshot 2022-09-22 at 1 34 26 AM](https://user-images.githubusercontent.com/19636687/191686545-59aa5e95-6f68-4c4d-92b3-ef2236c2cea8.png)
 ![Screenshot 2022-09-22 at 1 35 09 AM](https://user-images.githubusercontent.com/19636687/191686566-7c5e9db7-a3ed-4143-ac8a-367ce016c2f4.png)
-
+![Screenshot 2022-09-23 at 6 45 29 PM](https://user-images.githubusercontent.com/19636687/192072908-ed6da6c5-57be-49d7-8f8d-31404d80f19f.png)
+![Screenshot 2022-09-23 at 6 45 45 PM](https://user-images.githubusercontent.com/19636687/192072911-02789de4-275d-4aaa-b2a4-d46f7ce518b3.png)
 
 
 
